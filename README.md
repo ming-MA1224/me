@@ -67,7 +67,7 @@ export default {
   page6:{
     github:'...',//github链接
     bili:'...',//B站链接
-    email:'Mailto:xxx@qq.com?Subject=邮箱标题&Body=邮箱内容！',//email
+    email:'Mailto:305063863@qq.com?Subject=邮箱标题&Body=邮箱内容！',//email
     zhihu:'...',//知乎链接
     weixin:"<img style='width:120px' src='...' alt='加载失败'>",//微信弹窗
     qq:"<img style='width:120px' src='...' alt='加载失败'>"//QQ弹窗
